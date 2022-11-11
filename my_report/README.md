@@ -26,11 +26,13 @@
 ![paleta](https://user-images.githubusercontent.com/101730746/201399703-88df3c1b-e70d-436f-bf10-22ca213ca1df.png)
 ![xaraktiras](https://user-images.githubusercontent.com/101730746/201399707-f046029b-bd05-4514-a392-7199dfba6da7.png)
 ![xaraktiraskontino (2)](https://user-images.githubusercontent.com/101730746/201399711-36e27647-1118-4c59-8012-5221617df5ee.png)
-![nisikontino](https://user-images.githubusercontent.com/101730746/201399904-8c3518fa-75ce-4cad-9a77-3eb95121d022.png)
+![olotonisi](https://user-images.githubusercontent.com/101730746/201400181-b3281777-2bd8-4849-b5ab-8e8004b0912d.png)
+
 
 
 Αντιμετώπισα ορισμένα προβλήματα με το scale του χαρακτήρα μου όπου ήταν πολύ μικρότερο σε σχέση με αυτό του map. Επίσης είχα μερικά προβλήματα με τους άξονες αλλά ευτυχώς επιλύθηκαν στην πορεία. Επίσης δεν κατάφερα να κάνω την κάμερα να ακολουθεί τον χαρακτήρα και επομένως σε αυτό το στάδιου του παραδοτέου φαίνεται στην οθόνη μόνο το κεντρικό μέρος του νησιού. 
-![olotonisi](https://user-images.githubusercontent.com/101730746/201399884-a7e51361-1ab5-4a5d-86f0-fdaff0f5016e.png)
+![nisikontino](https://user-images.githubusercontent.com/101730746/201400139-db7e50f9-6d6e-48f5-8b4b-97c905e2aaed.png)
+
 
 Αφού τελείωσα με όλα τα steps του παραδοτέου, το έκανα Build βάσει του tutorial της περιγραφής και το αντίστοιχου εργαστηρίου που είχαμε κάνει. Αφού έγινε το Build, το έτρεξα για να δω πως δουλεύει μέσω της WebGl. Δυσκολεύτηκα να το ανεβάσω μέσω του GitHub Desktop και εν τέλη το ανέβασα από την web έκδοση του GitHub.
 
