@@ -1,9 +1,9 @@
 # Lesson: Digital & Serious Games
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
-### GitHub Personal Profile: xxx
-### Digital & Serious Games Personal Repository: xxx
+### First and Last Name: Stella Koronaiou Gkourlia
+### University Registration Number: dpsd17050
+### GitHub Personal Profile: https://github.com/StellaKoronaiou17050
+### Digital & Serious Games Personal Repository: https://stellakoronaiou17050.github.io/Role-Playing-Game/
 
 # Introduction
 
