@@ -78,7 +78,8 @@ Projectile
 
 Για το projectile αντικείμενο που θα πετάει ο χαρακτήρας μου στον εχθρό, χρησιμοποίησα ένα sprite σφαίρας που το βρήκα στον φάκελο Assets του Lab07 του μαθήματος. Οι σφαίρες εκτοξεύονται από τον χαρακτήρα μου πατώντας το πλήκτρο C.
 
-![projectile](https://user-images.githubusercontent.com/101730746/208316857-110ba032-37f0-4efd-b412-486e3ba026e3.png)
+![projectile](https://user-images.githubusercontent.com/101730746/208317042-bbd9ac46-8bcc-4835-a7c5-5a19f2a981b0.png)
+
 
 
 Cinemachine
