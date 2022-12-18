@@ -85,7 +85,8 @@ Projectile
 Cinemachine
 
 Τέλος, για το Cinemachine εφάρμοσα τα βήματα το tutorial και έτσι η κάμερά μου μπορει να ακολουθεί τον χαρακτήρα κατά την κίνησή του στη σκηνή. Πλέον μπορεί να περιηγηθεί σε όλο το νησί και όχι μόνο σε ένα μέρος του, όπως στο προηγούμενο παραδοτέο.
-![Screenshot (21)](https://user-images.githubusercontent.com/101730746/208317090-0d9df0c7-b291-467a-89e5-997fa4735f29.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/101730746/208317132-e2161b53-69d8-4170-a2db-9a6a7ace1d8a.png)
+
 
 
 
