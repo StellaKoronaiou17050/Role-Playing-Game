@@ -43,6 +43,7 @@
 Blocking Movement
 
 Για τα colliders, δημιούργησα box colliders ξεχωριστά για τα αντικείμενα που βρίσκονται στο top ground tilemap και ξεχωριστά για την περίμετρο της πίστας του νησιού μου, γύρω από το νερό.
+
 ![box colliders](https://user-images.githubusercontent.com/101730746/208316619-1084f25e-6610-4f9d-b775-41d003cfa944.png)
 
 
@@ -50,6 +51,7 @@ Blocking Movement
 Collectibles
 
 Για τα collectibles, χρησιμοποίησα τα μήλα απο το sprite set που είχα κατεβάσει και τα έκανα duplicate για να τα μοιράσω σε διάφορα μέρη του νησιού μου. Ακολουθώντας το tutorial πρόσθεσα ζωή στον χαρακτήρα μου.
+
 ![mila](https://user-images.githubusercontent.com/101730746/208316919-b47d02b7-7e6e-4a90-b0df-2583942d9658.png)
 
 Damage Zone - Enemy
