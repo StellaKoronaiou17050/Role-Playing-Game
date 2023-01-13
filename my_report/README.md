@@ -109,3 +109,19 @@ https://www.youtube.com/watch?v=DTp5zi8_u1U
 https://itch.io/game-assets/free/tag-royalty-free/tag-unity
 
 https://cupnooble.itch.io/sprout-lands-asset-pack
+
+https://www.spriters-resource.com/
+
+https://www.youtube.com/watch?v=qHvbgvYcCeg
+
+https://www.youtube.com/watch?v=FfaG9TvCe5g
+
+https://www.youtube.com/watch?v=zc8ac_qUXQY
+
+https://www.youtube.com/watch?v=J77CMuAwVDY
+
+https://www.youtube.com/watch?v=evDKHClDxU8
+
+https://www.youtube.com/watch?v=wNj84aWxNy4
+
+https://bandcamp.com/download?id=1668847963&ts=1673570451.1963204202&tsig=95ca12f3b362d0161c24e1bf18562baa&type=album
