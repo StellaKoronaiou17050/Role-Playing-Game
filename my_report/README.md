@@ -98,9 +98,52 @@ Build and Run
 
 # 3rd Deliverable 
 
+Visual Styling - Particles.
+ 
+Για τα particles, ακολουθώντας το tutorial, χρησιμοποίησα ένα sprite καπνού το οποίο φαίνεται να βγαίνει από το κεφάλι του θυμωμένου εχθρού. Το διαμόρφωσα κατάλληλα ώστε να ταιριάζει στις διαστάσεις του εχθρού και να μετακινείται μαζί του.
+
+![kakos smoke](https://user-images.githubusercontent.com/101730746/212221837-42f39e30-691f-4a47-8359-4158fca99e0f.png)
+![smoke sprite](https://user-images.githubusercontent.com/101730746/212221924-f9f6c350-e7e3-40ad-82fb-df8fec3148a2.png)
+![smoke effect](https://user-images.githubusercontent.com/101730746/212221946-eea7f5eb-286f-4d9d-afd5-726ef21b0230.png)
+
+
+Visual Styling - User Interface - Head-Up Display.
+
+Με την βοήθεια του tutorial κατάφερα να δημιουργήσω ένα Health Bar και να το τοποθετήσω στην αριστερή πάνω γωνία της σκηνής μου. Βρήκα τα sprites που χρειάστηκα online. Δυστυχώς δεν κατάφερα να κάνω την HealthBar να αυξομειώνεται και επομένως πρόσθεσα και ένα score counter με την βοήθεια ενός youtube tutorial (βρίσκεται με λινκ στα sources). 
+
+![score healthbar](https://user-images.githubusercontent.com/101730746/212222037-91427e0e-8285-4779-94a4-5a99756cc1a8.png)
+![makrino](https://user-images.githubusercontent.com/101730746/212222394-cc058863-bec3-4868-b36d-754e24cb3d75.png)
+
+
+World Interactions 
+
+Παρακολουθώντας ορισμένα youtube tutorials που έχω προσθέσει στα sources, έκανα τον χαρακτήρα μου να κάνει teleport από την μια άκρη του νησιού στην άλλη. Ως πύλες πρόσθεσα δύο κρεβατάκια που βρήκα στο αρχικό tileset μου. Όταν ο χαρακτήρας εισέρχεται σε ένα από αυτά, αυτόματα μεταφέρεται στο άλλο.
+
+![teleport1](https://user-images.githubusercontent.com/101730746/212222128-eb3f4ddf-3ec7-4a15-bd6f-ae81e717820f.png)
+![teleport2](https://user-images.githubusercontent.com/101730746/212222142-b6b6209b-cf2a-4343-b972-051b7b9d07a7.png)
+
+
+Audio
+Για τον ήχο ακολούθησα τις οδηγίες και πρόσθεσα background music από την στιγμή που ξεκινά το παιχνίδι. Βρήκα το τραγούδι που επέλεξα από ένα άλμπουμ στο bandcamp το οποίο βρίσκεται στην περιγραφή. Το συνέδεσα στον χαρακτήρα μου για να ακούγεται καθόλη την διάρκεια του παιχνιδιού.
+ 
+ ![bandcamp](https://user-images.githubusercontent.com/101730746/212222176-eda69075-6e74-4c2e-8e7d-1a13f7355b96.png)
+ ![music](https://user-images.githubusercontent.com/101730746/212222190-f3611ae0-5060-477e-a4aa-6f5504844ea7.png)
+
+
+Menu
+Με των βίντεο της περιγραφής και του tutorial Lab9 του εργαστηρίου δημιούργησα ένα αρχικό μενού σε μία νέα σκηνή. Πρόσθεσα Logo και Play Button.
+
+![menu kai skines](https://user-images.githubusercontent.com/101730746/212222299-dbe3d838-c71c-4cb1-be58-26e65cc5c530.png)
+![bg menu](https://user-images.githubusercontent.com/101730746/212222327-8956afcf-a2b6-48c7-9c61-0da2df0b9ca2.png)
+![menu](https://user-images.githubusercontent.com/101730746/212222348-6a3f98ca-a9eb-47e9-a7f8-21d431ae38c8.png)
+
+Build and Run
+
+Έκανα Build and Run και ανέβασα το παιχνίδι μου από το GitHub Desktop.
 
 # Conclusions
 
+Ήταν πολύ ενδιαφέρον project και με έκανε να εξοικειωθώ με το πρόγραμμα του unity. Υπήρχε ένας βαθμός δυσκολίας αλλά με βοήθησε αρκετά το υλικό που υπάρχει online. Εάν υπήρχε περισσότερος χρόνος θα ήθελα να συνεχίσω να χτίζω το νησί μου και να προσθέσω περισσότερες πίστες και χαρακτήρες. Επίσης θα ήθελα στο μέλλον να μάθω πως να χρησιμοποιώ τον φωτισμό.
 
 # Sources
 
@@ -124,4 +167,4 @@ https://www.youtube.com/watch?v=evDKHClDxU8
 
 https://www.youtube.com/watch?v=wNj84aWxNy4
 
-https://bandcamp.com/download?id=1668847963&ts=1673570451.1963204202&tsig=95ca12f3b362d0161c24e1bf18562baa&type=album
+https://touhoujam.bandcamp.com/album/touhou-jam-jams
