@@ -131,7 +131,8 @@ Audio
 
 
 Menu
-Με των βίντεο της περιγραφής και του tutorial Lab9 του εργαστηρίου δημιούργησα ένα αρχικό μενού σε μία νέα σκηνή. Πρόσθεσα Logo και Play Button.
+
+Με των βίντεο της περιγραφής και του tutorial Lab9 του εργαστηρίου δημιούργησα ένα αρχικό μενού σε μία νέα σκηνή. Πρόσθεσα ένα στιγμιότυπο από το παιχνίδι μου ως background photo, Logo και Play Button.
 
 ![menu kai skines](https://user-images.githubusercontent.com/101730746/212222299-dbe3d838-c71c-4cb1-be58-26e65cc5c530.png)
 ![bg menu](https://user-images.githubusercontent.com/101730746/212222327-8956afcf-a2b6-48c7-9c61-0da2df0b9ca2.png)
